@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using TheShop.Contracts.Consts;
 using TheShop.Contracts.Interfaces;
-using TheShop.Data;
-using TheShop.Common;
 
 namespace TheShop
 {
