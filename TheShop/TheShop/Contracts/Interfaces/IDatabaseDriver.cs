@@ -11,13 +11,13 @@ namespace TheShop.Contracts.Interfaces
         /// </summary>
         /// <param name="id">Article ID</param>
         /// <returns></returns>
-        Article GetByID(int id);
+        Article GetArticleByID(int id);
 
         /// <summary>
         /// Saves an article to our storage, if it already doesn't exist.
         /// </summary>
         /// <param name="article">Article representation</param>
         /// <returns></returns>
-        void Save(Article article);
+        void SaveArticle(Article article);
     }
 }

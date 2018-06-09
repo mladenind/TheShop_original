@@ -14,15 +14,15 @@ namespace TheShop.Contracts.Interfaces
         /// <summary>
         /// Checks whether the Supplier has the article in his inventory
         /// </summary>
-        /// <param name="Id"></param>
+        /// <param name="ID"></param>
         /// <returns></returns>
-        bool HasArticleInInventory(int Id);
+        bool HasArticleInInventory(int ID);
 
         /// <summary>
         /// Gets the article from the supplier
         /// </summary>
-        /// <param name="Id"></param>
+        /// <param name="ID"></param>
         /// <returns></returns>
-        Article GetArticle(int Id);
+        Article GetArticle(int ID);
     }
 }

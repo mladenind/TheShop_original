@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Article.cs" />
+    <Compile Include="Business\Model\Article.cs" />
     <Compile Include="Contracts\Consts\LogLevelConsts.cs" />
     <Compile Include="Contracts\Interfaces\IDatabaseDriver.cs" />
     <Compile Include="Contracts\Interfaces\ILogger.cs" />
@@ -51,12 +51,12 @@
     <Compile Include="Data\DatabaseDriver.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShopService.cs" />
-    <Compile Include="FirstSupplier.cs" />
-    <Compile Include="SecondSupplier.cs" />
-    <Compile Include="ThirdSupplier.cs" />
-    <Compile Include="SupplierFactory.cs" />
-    <Compile Include="Utils\Logger.cs" />
+    <Compile Include="Business\Logic\ShopService.cs" />
+    <Compile Include="Business\Model\FirstSupplier.cs" />
+    <Compile Include="Business\Model\SecondSupplier.cs" />
+    <Compile Include="Business\Model\ThirdSupplier.cs" />
+    <Compile Include="Business\Logic\SupplierFactory.cs" />
+    <Compile Include="Common\Logger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">

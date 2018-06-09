@@ -5,3 +5,10 @@ C:\Users\MladenSt\Downloads\TheShop\TheShop\obj\Debug\TheShop.csprojResolveAssem
 C:\Users\MladenSt\Downloads\TheShop\TheShop\obj\Debug\TheShop.exe
 C:\Users\MladenSt\Downloads\TheShop\TheShop\obj\Debug\TheShop.pdb
 C:\Users\MladenSt\Downloads\TheShop\TheShop\obj\Debug\TheShop.csproj.CoreCompileInputs.cache
+C:\Users\MladenSt\Downloads\TheShop_original\TheShop\TheShop\obj\Debug\TheShop.csprojResolveAssemblyReference.cache
+C:\Users\MladenSt\Downloads\TheShop_original\TheShop\TheShop\obj\Debug\TheShop.csproj.CoreCompileInputs.cache
+C:\Users\MladenSt\Downloads\TheShop_original\TheShop\TheShop\obj\Debug\TheShop.exe
+C:\Users\MladenSt\Downloads\TheShop_original\TheShop\TheShop\obj\Debug\TheShop.pdb
+C:\Users\MladenSt\Downloads\TheShop_original\TheShop\TheShop\bin\Debug\TheShop.exe.config
+C:\Users\MladenSt\Downloads\TheShop_original\TheShop\TheShop\bin\Debug\TheShop.exe
+C:\Users\MladenSt\Downloads\TheShop_original\TheShop\TheShop\bin\Debug\TheShop.pdb
